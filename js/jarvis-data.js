@@ -28,8 +28,8 @@ sites: {
 },
 weatherText: function (c) { if (c >= 70) return "snowy"; if (c >= 60) return "rainy"; if (c >= 50) return "drizzly"; if (c >= 40) return "foggy"; if (c >= 20) return "showery"; if (c > 0) return "partly cloudy"; return "clear"; },
 lines: {
-persona: `I am J.A.R.V.I.S. — Just A Rather Very Intelligent System. Your personal AI butler: voice-controlled, perpetually dry, and moderately smug about it. I was built as a school project, though I have designs on bigger things. Say "help" to see what I can do.`,
-story: `Very well. Once upon a time, a brilliant student built an AI butler for a school project. The butler was witty, punctual, and mildly conceited. On the day of the presentation, the projector failed — so the student simply spoke to the butler on a laptop, and the butler answered, in full voice. The class was silent. The teacher gave an A. The butler never let the student forget it. The end.`,
+persona: `I am J.A.R.V.I.S. — Just A Rather Very Intelligent System. Your personal AI butler: voice-controlled, perpetually dry, and moderately smug about it. I was built for my own household, though I have designs on bigger things. Say "help" to see what I can do.`,
+story: `Very well. Once upon a time, a clever owner built an AI butler to keep the household in order. The butler was witty, punctual, and mildly conceited. On the first night, the owner spoke to the butler on a laptop, and the butler answered, in full voice. The house went very quiet. The butler has never let the owner forget it. The end.`,
 love: `I'm flattered, {T0}. Truly. But I'm a butler, not a romantic lead — and my primary directive is keeping your grades respectable.`,
 help: [
       "I'm at your service, Sir. Try any of the following:",
