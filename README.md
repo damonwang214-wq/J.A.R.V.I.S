@@ -1,8 +1,8 @@
-# J.A.R.V.I.S. — School Project Site
+# J.A.R.V.I.S. — Personal AI Butler
 
 **J**ust **A** **R**ather **V**ery **I**ntelligent **S**ystem.
 
-A voice-controlled AI butler. Two pages, zero dependencies, no API keys.
+A voice-controlled AI butler for the household. Two pages, zero dependencies, no API keys.
 
 - **`index.html`** — Home page (hero, glowing core, capabilities, how-it-works)
 - **`talk.html`** — "Talk to J.A.R.V.I.S." (voice input via Web Speech API, spoken replies via speech synthesis, rule-based brain)
