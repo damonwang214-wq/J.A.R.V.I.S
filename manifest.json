@@ -1,7 +1,7 @@
 {
   "name": "J.A.R.V.I.S. — Just A Rather Very Intelligent System",
   "short_name": "J.A.R.V.I.S.",
-  "description": "A voice-controlled AI butler. A school project — with designs on bigger things.",
+  "description": "A voice-controlled AI butler — with designs on bigger things.",
   "start_url": "index.html",
   "scope": ".",
   "display": "standalone",
