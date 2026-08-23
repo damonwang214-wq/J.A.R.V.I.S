@@ -1,5 +1,5 @@
 /* J.A.R.V.I.S. — service worker: offline cache. Bump CACHE version when pushing updates. */
-const CACHE = "jarvis-v1";
+const CACHE = "jarvis-v2";
 const ASSETS = [
   "./", "./index.html", "./talk.html",
   "./css/core.css", "./css/home.css", "./css/talk.css",
